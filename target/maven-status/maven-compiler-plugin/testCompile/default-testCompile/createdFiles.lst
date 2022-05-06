@@ -1,0 +1,15 @@
+stepDefi\Hooks.class
+stepDefi\ProductSearchSteps.class
+stepDefi\CompareListSteps.class
+stepDefi\ShoppingCartSteps.class
+runners\TestRunner.class
+stepDefi\aRegisterSteps.class
+stepDefi\ResetPasswordSteps.class
+stepDefi\SuccessfulOrderSteps.class
+stepDefi\LoginSteps.class
+stepDefi\WishListSteps.class
+stepDefi\PasswordChangeSteps.class
+stepDefi\DifferentCategoriesSteps.class
+stepDefi\CurrencySteps.class
+stepDefi\FilterColorSteps.class
+stepDefi\ProductTagsSteps.class

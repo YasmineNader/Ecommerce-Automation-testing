@@ -1,0 +1,14 @@
+Pages\FilterColorPage.class
+Pages\CurrencyPage.class
+Pages\WishListPage.class
+Pages\SuccessfulOrderPage.class
+Pages\ChangePasswordPage.class
+org\example\Main.class
+Pages\DifferentCategoriesPage.class
+Pages\RegisterPage.class
+Pages\LoginPage.class
+Pages\ShoppingCartPage.class
+Pages\ResetPasswordPage.class
+Pages\ProductTagPage.class
+Pages\ProductSearchPage.class
+Pages\CompareListPage.class
